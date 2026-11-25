@@ -13,3 +13,4 @@
 #### Version Code: ``-00001 (Pre-Beta Pre-Release)`` <br><br><br>
 
 ## 🔵 Alpha (Neon Black)
+Logo changed. See [here](https://github.com/Lucatragon/veu-sakura/issues/1)
